@@ -1,0 +1,5 @@
+[
+    {"id": "b1", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b2", "conversational_trigger": "Ask about their order."},
+    {"id": "b3", "conversational_trigger": "Say hello to the customer."}
+]
