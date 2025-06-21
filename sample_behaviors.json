@@ -1,5 +1,17 @@
 [
     {"id": "b1", "conversational_trigger": "Say hello to the customer."},
     {"id": "b2", "conversational_trigger": "Ask about their order."},
-    {"id": "b3", "conversational_trigger": "Say hello to the customer."}
+    {"id": "b3", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b4", "conversational_trigger": "Ask about their order."},
+    {"id": "b5", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b6", "conversational_trigger": "Ask about their order."},
+    {"id": "b7", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b8", "conversational_trigger": "Ask about their order."},
+    {"id": "b9", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b10", "conversational_trigger": "Ask about their order."},
+    {"id": "b11", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b12", "conversational_trigger": "Ask about their order."},
+    {"id": "b13", "conversational_trigger": "Say hello to the customer."},
+    {"id": "b14", "conversational_trigger": "Ask about their order."},
+    {"id": "b15", "conversational_trigger": "Say hello to the customer."}
 ]
